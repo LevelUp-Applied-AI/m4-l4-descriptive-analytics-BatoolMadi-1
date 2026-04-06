@@ -1,0 +1,26 @@
+DATA PROFILE
+
+Shape: (20, 3)
+
+Data Types:
+numeric    float64
+integer      int32
+text           str
+dtype: object
+
+Missing Values:
+numeric    0
+integer    0
+text       0
+dtype: int64
+
+Descriptive Statistics:
+         numeric    integer
+count  20.000000  20.000000
+mean   -0.215509   5.600000
+std     1.139624   3.185493
+min    -2.706597   0.000000
+25%    -0.824631   3.000000
+50%    -0.185844   6.500000
+75%     0.416803   8.250000
+max     1.474531   9.000000
